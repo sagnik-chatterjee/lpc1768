@@ -3,7 +3,7 @@
 
 ### Following are present:
 
-- [ ] Added all files for week1
+- [x] Added all files for week1
 - [x] Added all files for week2
 - [x] Added all files for week3
 - [x] Added all files for week4
