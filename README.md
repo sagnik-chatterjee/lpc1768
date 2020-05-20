@@ -11,3 +11,6 @@
 - [ ] Adding all files for week6
 
 - [ ] Adding the steps for installation of Keil Uvision in Windows
+
+### Using in Linux :
+Although the official site says that they are not currently aiming for a release for a [UNIX based system](http://www.keil.com/support/docs/1456.html) ,however there exists a possible workaround this as mentioned in this [StackOverflow post](https://stackoverflow.com/questions/57307738/is-there-anybody-using-keil-mdk-on-linux-through-wine)
